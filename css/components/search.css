@@ -1,0 +1,28 @@
+.search{
+    text-align: center;
+}
+
+.search-title {
+	font-family:"Heebo", sans serif; 
+	font-size: x-large;
+	
+}
+
+.search-field {
+	width: 270px;
+	height: 45px;
+	margin-right: 10px;
+	border-radius: 50px;
+	font-family: "Heebo", sans serif;
+	border-color: black;
+}
+
+.search-submit {
+	background-color: blueviolet;
+	padding: 15px 20px;
+	border-radius: 50px;
+	color:white;
+	font-weight: bold;
+	font-family: "Heebo", sans serif;
+	border-style: none;
+}
